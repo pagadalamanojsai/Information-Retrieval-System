@@ -1,1 +1,3 @@
 # Information-Retrieval-System
+
+The informaiton and how to run this project will be updated shortly ...
